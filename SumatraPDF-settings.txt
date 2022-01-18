@@ -1,0 +1,817 @@
+﻿# For documentation, see http://www.sumatrapdfreader.org/settings3.2.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+
+FixedPageUI [
+	TextColor = #282828
+	BackgroundColor = #efe7d8
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = br
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 2
+WindowPos = 385 22 1194 1030
+ShowToc = true
+SidebarDx = 399
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\bruno\OneDrive\Arquivos trabalho\ICMS\2021.10\4143612_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 24
+		PageNo = 20
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Downloads\Cork dork a wine-soaked adventure among the obsessive pros, tipsy hedonists, and mad scientists who live to taste by Bosker, Bianca (z-lib.org).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Vinhos\Livros\Viticulture by Stephen Skelton (z-lib.org).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Downloads\Grapes  wines a comprehensive guide to varieties  flavours by Clarke, OzRand, Margaret (z-lib.org).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 106190
+		TocState = 4 12 13
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Documentos - outros\arquivos antigos\Concurso\outros livros\Tributário\Amaro, Luciano - Direito Tributário Brasileiro - 2014.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 23136
+	]
+	[
+		FilePath = C:\Users\bruno\Documents\Biblioteca do calibre\Washington dos Santos\Dicionario Juridico Brasileiro (13)\Dicionario Juridico Brasileiro - Washington dos Santos.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 36813
+	]
+	[
+		FilePath = C:\Users\bruno\Documents\Biblioteca do calibre\Stephen G. Kochan\Programming in C (4th Edition) (Deve (15)\Programming in C (4th Edition) - Stephen G. Kochan.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 603181
+		TocState = 95
+	]
+	[
+		FilePath = C:\Users\bruno\Downloads\(Absolute beginner's guide) Miller, Dean_Perry, Greg M - C programming_ absolute beginner's guide-Pearson Education_Que (2016_2014).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 47363
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_10032017100806.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\AppData\Local\Temp\4130075_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 44
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1011 27 795 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\AppData\Local\Temp\131046-Duas Folhas_Bch Alentejo_Final_versão LR.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 357
+		PageNo = 26
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1011 27 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\AppData\Local\Temp\inscricao 2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 81
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1011 27 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Desktop\Edital Nana.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 556
+		PageNo = 42
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1011 27 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\temp\z.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1011 27 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Documents\Programação\Programming Books\Mark Summerfield - Rapid GUI Programming with Python and Qt.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 239
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 562 0 795 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Documents\Programação\Programming Books\Mark Lutz - Learning Python, 5th Edition - 2013.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 282
+		PageNo = 9
+		Zoom = 200
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Downloads\Livros Caligrasfia\300 Days of Better Writing.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 23 102
+		PageNo = 37
+		Zoom = 75
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Desktop\Guitar\Oziel - Guitarra 2.0\01. Escala diatönica - simplificado\3. Exercicios Maiores - GR2.0.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 6 316
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 951 -9 978 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Desktop\Guitar\Bachianinha-No-2-by-Paulinho-Nogueira.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 675
+		PageNo = 1
+		Zoom = 182.834
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 951 -9 978 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Downloads\Pesquisa Google Covid 19 Cenários e Tendências.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 4
+		PageNo = 10
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 922 -9 1007 1048
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Documents\Cadernos GV - Cópia\Caderno de Estratégias Tributárias.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 305
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Desktop\keyboard-shortcuts-windows.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 385 22 1194 1030
+		ShowToc = false
+		SidebarDx = 399
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\Downloads\Stephen G. Kochan - Programming in C (2014, Addison-Wesley Professional) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 385 22 1194 1030
+		ShowToc = true
+		SidebarDx = 297
+		DisplayR2L = false
+		ReparseIdx = 107473
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Outros documentos\arquivos antigos\Concurso\outros livros\Legislação e Dicionários\Washington dos Santos - Dicionario Juridico Brasileiro.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 -9 978 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 32741
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Outros documentos\arquivos antigos\Concurso\outros livros\Legislação e Dicionários\Dicionario - Juridico de Latim.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -9 -9 978 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Outros documentos\arquivos antigos\Concurso\outros livros\Legislação e Dicionários\Deocleciano Torrieri Guimaraes - Dicionario Tecnico Juridico.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -9 -9 978 1030
+		ShowToc = true
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 13417
+	]
+	[
+		FilePath = C:\Users\bruno\Downloads\ITCMD Bruno Zanotta NÃ£o Conhecimento de Defesa.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 124
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 -9 978 1048
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Guitar\Revistas\Guitar World - 2018.01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous book view
+		ScrollPos = 539 135
+		PageNo = 18
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 951 -9 978 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Arquivos trabalho\AIIM\2020.05\4131524_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 28 358
+		PageNo = 427
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 951 -9 978 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_10012017145443.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_08062016091752.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_08022017152845.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_07042017140212.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_05082016092654.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_22022017163726.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_18012017102402.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\bruno\OneDrive\Comprovantes\Comprovantes antigos\GerarPDF_17062016150400.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 562 0 795 1030
+		ShowToc = false
+		SidebarDx = 194
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 564
+
+# Settings after this line have not been recognized by the current version

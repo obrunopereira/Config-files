@@ -1,0 +1,23 @@
+Atalhos úteis PotPlayer
+velocidade de legenda (mais/menos): < ou , ; > ou .
+(usando tecla CTRL e ALT para intensificar)
+
+Loop AB - começo(A): 	[
+	  final(B): 	]
+  afastar da posição: 	Shift + [ ou ]
+  afastar 0,1s:		Ctrl + [ ou ]
+  desfazer repetição:	\
+  configurar:		Shift + \
+
+
+Marcador: 	H
+  adicionar:	P
+  remover:      Shift + P
+  lista		L
+
+Lembrar da posição de reprodução: B
+
+Pular Abertura (habilitar/desabilitar)
+		Shift + '
+
+Capturar imagem: 	K
